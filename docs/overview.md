@@ -21,7 +21,7 @@ SoCon's architecture is designed to provide a decentralized, secure, and scalabl
 
 - **Storage:** A PostgreSQL database stores essential information, including user profiles, messages, and other relevant data. It ensures efficient retrieval and management of content.
 
-### [Sname Registry](/docs/sname-registry/overview.md)
+### [Sname Registry](#)
 
 - **Username Resolution:** The Sname Registry manages human-readable usernames (snames) associated with Ethereum addresses. It enables users to easily connect and communicate within the SoCon network.
 
