@@ -43,8 +43,8 @@ SoCon supports a variety of apps that enable users to create accounts, obtain So
 
 To delve deeper into the concepts and functionalities of SoCon, explore the following resources:
 
-- [SoCon Website](https://thesocialcontinent.xyz)
-- [Socon Documentation](https://docs.thesocialcontinent.xyz)
-- [Community Forums](https://community.thesocialcontinent.xyz)
+- [SoCon Website](https://socialcontinent.xyz)
+- [Socon Documentation](https://docs.socialcontinent.xyz)
+- [Community Forums](https://community.socialcontinent.xyz)
 
 Embark on your journey with SoCon, where social interactions meet the decentralized world of blockchain!

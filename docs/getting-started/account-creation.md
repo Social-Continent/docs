@@ -26,8 +26,8 @@ After creating your account, you are ready to explore SoCon and enjoy the variou
 
 To gain a deeper understanding of how SoCon and Socon work, explore additional resources and documentation. The official SoCon website provides comprehensive guides, FAQs, and community support to enhance your experience.
 
-- [SoCon Website](https://www.thesocialcontinent.com)
-- [Socon Documentation](https://www.docs.thesocialcontinent.xyz)
+- [SoCon Website](https://socialcontinent.xyz)
+- [Socon Documentation](https://docs.socialcontinent.xyz)
 
 If you encounter any issues during the account creation process or have questions about using SoCon, refer to the provided documentation or reach out to the SoCon community for assistance.
 
