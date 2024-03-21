@@ -1,10 +1,9 @@
 ---
+slug: /
 sidebar_position: 1
 ---
 
 # Introduction
-
-# Socon Intro
 
 ## What is Socon?
 
