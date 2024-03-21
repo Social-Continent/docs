@@ -13,7 +13,7 @@ SoCon's architecture is designed to provide a decentralized, secure, and scalabl
 
 ## Backend
 
-### [Hubs](*)
+### [Hubs](/docs/hub/index.md)
 
 - **Peer-to-Peer Network:** Comprised of decentralized nodes known as Hubs. Each Hub stores a copy of the entire network, facilitating the propagation of messages across the SoCon ecosystem.
 
