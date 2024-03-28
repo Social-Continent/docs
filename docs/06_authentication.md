@@ -1,4 +1,4 @@
-# SoCon Authentication
+# Authentication
 
 SoCon introduces a novel approach to message signing by creating a separate signer public-private key pair. This method enhances security and privacy by eliminating the need to use the sender's private key for signing messages.
 When a user logs into any messaging app built on the SoCon platform, the app generates a unique SCID and SCName for the user. Simultaneously, a new signer is created on the App Layer, serving as a cryptographic key pair securely stored locally on the user's device. This signer signs messages on behalf of the user, ensuring secure authentication without compromising the user's custody address's private key.

@@ -1,4 +1,8 @@
-# SoCon Accounts
+---
+sidebar_position: 5
+---
+
+# Accounts
 
 Unlock the full potential of your SoCon experience by creating and managing your SoCon account. Here's a guide to help you navigate the process seamlessly:
 

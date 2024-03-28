@@ -1,4 +1,7 @@
-# SoCon Identities
+---
+sidebar_position: 3
+---
+# Identities
 
 Remembering lengthy wallet addresses can be challenging and hence, SoCon introduces a solution by adopting a naming system similar to domain names and IP addresses. However, this approach brings its own challenge – the risk of identity squatting and impersonation.
 

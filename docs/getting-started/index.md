@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Getting Started
 
 Welcome to SoCon, the Social Continent! We're building a future of social networking where you control your data and experience a secure, transparent online environment.

@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Key Features
 
 SoCon goes beyond the traditional social media experience by offering unique features that empower you to connect and express yourself freely. Here's a glimpse of what sets SoCon apart:
