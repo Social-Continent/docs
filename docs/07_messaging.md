@@ -1,3 +1,6 @@
+---
+sidebar_position: 7
+---
 # Messaging
 
 ## Secure and Private Messaging with [XMTP](https://xmtp.org/)

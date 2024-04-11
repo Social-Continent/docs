@@ -1,3 +1,6 @@
+---
+sidebar_position: 14
+---
 # Messages
 
 Unlock the power of interaction within the SoCon community by signing and publishing messages. Whether you're expressing thoughts, forming connections, or providing proofs of ownership, messages are at the heart of the SoCon experience. Here's an overview to guide you through the intricacies of SoCon messages:

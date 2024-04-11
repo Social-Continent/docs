@@ -1,3 +1,6 @@
+---
+sidebar_position: 12
+---
 # Smart Contract Architecture
 
 ![hub architecture](/img/contract-architecture.png)

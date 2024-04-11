@@ -1,3 +1,6 @@
+---
+sidebar_position: 6
+---
 # Authentication
 
 SoCon introduces a novel approach to message signing by creating a separate signer public-private key pair. This method enhances security and privacy by eliminating the need to use the sender's private key for signing messages.

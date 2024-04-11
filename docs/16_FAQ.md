@@ -1,3 +1,6 @@
+---
+sidebar_position: 16
+---
 # FAQ
 
 ## What is SoCon?

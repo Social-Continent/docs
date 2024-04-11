@@ -24,4 +24,4 @@ Security is a priority, and SoCon provides a straightforward account recovery pr
 
 2. **Trusted Services or Self-Management:** Users can set the recovery address to trusted services for hassle-free recovery. Alternatively, manage the recovery process independently using a regular Ethereum wallet.
 
-Embrace the SoCon community by creating and managing your SoCon account efficiently. Whether you're expressing yourself through casts or exploring the vast features, a well-managed account enhances your overall SoCon experience. Check out the detailed [authentication flow](/docs/user-flows/authentication.md) for more information.
+Embrace the SoCon community by creating and managing your SoCon account efficiently. Whether you're expressing yourself through casts or exploring the vast features, a well-managed account enhances your overall SoCon experience. Check out the detailed [authentication flow](/docs/06_authentication.md) for more information.
